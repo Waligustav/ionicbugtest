@@ -1,0 +1,7 @@
+{
+  "name": "ionicBugTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
